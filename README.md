@@ -1,3 +1,5 @@
+--- layout: default title: "Teun Nagel" ---
+
 # TeunNagel
 
 _Hi im Teun.. what do i even put here._
